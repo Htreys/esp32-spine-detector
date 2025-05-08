@@ -1,0 +1,21 @@
+{
+    "files.associations": {
+        "cstddef": "cpp",
+        "*.tcc": "cpp",
+        "deque": "cpp",
+        "string": "cpp",
+        "vector": "cpp",
+        "optional": "cpp",
+        "functional": "cpp",
+        "memory": "cpp",
+        "fstream": "cpp",
+        "istream": "cpp",
+        "numeric": "cpp",
+        "ostream": "cpp",
+        "string_view": "cpp",
+        "type_traits": "cpp",
+        "typeinfo": "cpp",
+        "jy901.h": "c",
+        "button.h": "c"
+    }
+}
